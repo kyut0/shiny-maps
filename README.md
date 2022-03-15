@@ -3,4 +3,6 @@ Creating interactive Google maps with R Shiny, following [this](https://www.gisl
 
 Dataset is ["List of US Airports"](https://www.kaggle.com/aravindram11/list-of-us-airports) from Kaggle.
 
+To run interactive shiny: `runApp("airports")`
+
 
